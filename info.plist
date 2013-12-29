@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>bundleid</key>
-	<string></string>
+	<string>com.unc.open.alfredworkflow</string>
 	<key>connections</key>
 	<dict>
 		<key>15299C7A-CDEA-4359-8898-446F2892DB7C</key>
@@ -21,7 +21,7 @@
 		<array/>
 	</dict>
 	<key>createdby</key>
-	<string></string>
+	<string>oz1215</string>
 	<key>description</key>
 	<string>Convert UNC path to SMB path and Open it.</string>
 	<key>disabled</key>
@@ -96,6 +96,6 @@ end
 		</dict>
 	</dict>
 	<key>webaddress</key>
-	<string></string>
+	<string>https://github.com/oz1215/alfread2-open-unc-path-workflow</string>
 </dict>
 </plist>
